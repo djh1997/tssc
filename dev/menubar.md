@@ -1,2 +1,2 @@
-| [home](/index.html) | [about us](/aboutus.html) | [camping weekend](/weekend.html) | [events](/events.html) |
+| [home](/index.html) | [Contact us](/contactus.html) | [camping weekend](/weekend.html) | [events](/events.html) |
 | ----------------- | ----------------------- | ------------------------------ | -------------------- |
