@@ -1,3 +1,16 @@
+---
+export_on_save:
+  html: true
+
+html:
+  embed_local_images: false
+  embed_svg: true
+  offline: True
+  toc: False
+
+print_background: false
+---
+
 # Events
 ![menubar](/dev/menubar.md)
 ##[Isle of Wight camping weekend](/weekend.html)
