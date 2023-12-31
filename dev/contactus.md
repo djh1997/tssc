@@ -13,6 +13,7 @@ print_background: false
 
 # Contact us
 ![menubar](/dev/menubar.md)
-[email](mailto:IOW@triumphsportsix.club?subject=contact%20us)
-[facebook](https://www.facebook.com/groups/786750551371248/)
-
+[E-mail](mailto:IOW@triumphsportsix.club?subject=contact%20us)
+[Facebook](https://www.facebook.com/groups/786750551371248/)
+[Instagram](https://www.instagram.com/isle_of_wight_tssc/)
+[Threads](https://www.threads.net/@isle_of_wight_tssc)
