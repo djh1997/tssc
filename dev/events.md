@@ -12,6 +12,9 @@ print_background: false
 ---
 
 # Events
+
 ![menubar](/dev/menubar.md)
-##[35th Isle of Wight Triumph Weekend](/weekend.html)
+
+## [35th Isle of Wight Triumph Weekend](/weekend.html)
+
 The Isle of Wight Triumph Weekend will be held over the first May Bank Holiday (Friday 3rd May to Monday 6th May 2024)
