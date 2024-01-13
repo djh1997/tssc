@@ -20,7 +20,6 @@ print_background: false
 Saturday 10th of February.
 We will be doing a run for drive your Triumph day leaving at 10am from Brading down out to Chessell pottery.
 
-
 ## [35th Isle of Wight Triumph Weekend](/weekend.html)
 
 The Isle of Wight Triumph Weekend will be held over the first May Bank Holiday (Friday 3rd May to Monday 6th May 2024)
