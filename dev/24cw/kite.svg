@@ -6,4 +6,8 @@
   <text fill="white" x="30" y="35" font-size="25px" font-family="sans-serif" transform="rotate(-45 50 50 )">
     T C
   </text>
+
+  <text fill="white" x="40" y="55" font-size="25px" font-family="sans-serif" transform="rotate(-45 50 50 )">
+    1963 2023
+  </text>
 </svg>
