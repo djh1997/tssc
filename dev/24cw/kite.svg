@@ -1,9 +1,9 @@
 <svg width="160" height="160" xmlns="http://www.w3.org/2000/svg">
-  <polygon fill="white" stroke="orange" points="5 0 95 0 50 45" />
-  <polygon fill="white" stroke="orange" points="0 5 0 95 45 50" />
-  <polygon fill="white" stroke="orange" points="100 5 55 50 160 155" />
-  <polygon fill="white" stroke="orange" points="5 100 50 55 155 160" />
-  <text fill="orange" x="30" y="35" font-size="25px" transform="rotate(-45 50 50 )">
+  <polygon fill="orange" stroke="orange" points="5 0 95 0 50 45" />
+  <polygon fill="orange" stroke="orange" points="0 5 0 95 45 50" />
+  <polygon fill="orange" stroke="orange" points="100 5 55 50 160 155" />
+  <polygon fill="orange" stroke="orange" points="5 100 50 55 155 160" />
+  <text fill="white" x="30" y="35" font-size="25px" font-family="sans-serif" transform="rotate(-45 50 50 )">
     T C
   </text>
 </svg>
