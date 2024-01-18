@@ -5,7 +5,7 @@ export_on_save:
 html:
   embed_local_images: false
   embed_svg: true
-  offline: True
+  offline: False
   toc: False
 
 print_background: false
