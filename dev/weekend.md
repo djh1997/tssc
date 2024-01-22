@@ -14,7 +14,7 @@ print_background: false
 # Isle of Wight Triumph weekend
 
 ![menubar](/dev/menubar.md)
-This year the 35^th^ Isle of Wight Triumph Weekend will again be held over the first [May Bank Holiday](/iow.ics) (Friday 3^rd^ May to Monday 6^th^ May 2024) at the [Waverley Park Holiday Centre](https://www.waverleypark.co.uk/), in East Cowes.
+This year the Isle of Wight Triumph Weekend will again be held over the first [May Bank Holiday](/iow.ics) (Friday 3^rd^ May to Monday 6^th^ May 2024) at the [Waverley Park Holiday Centre](https://www.waverleypark.co.uk/), in East Cowes.
 
 Here are the What Three Words location;
 [///entire.hires.tensions](https://w3w.co/entire.hires.tensions)
