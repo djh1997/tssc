@@ -5,9 +5,10 @@ I have "*driven*" Triumphs since I could sit on my parents lap and reach the ste
 ![Jo sat on a spitfire](/assets/jovgt.jpeg "Jo sat on a spitfire")
 
 ![my first time driving a spitfire](/assets/1stdrive.JPG "my first time driving a spitfire")
-I'm Roxy and whilst I didn't grow up around Triumphs, they have been a key part of Jo and I's relationship. When he took me to my first IOW TSSC weekend in 2013, I absolutely loved it! Since then I have enjoyed every adventure we have had in our Spitfire.
+I'm Roxy and whilst I didn't grow up around Triumphs, they have been a key part of Jo and I's relationship. When he took me to my first IOW TSSC weekend in 2013, I absolutely loved it! Since then I have enjoyed every adventure we have had in our Spitfire, including our road trip to Le Mans classic in 2018.
+![driving at lemans](/assets/lemans.JPG)
 
-Last year you would have seen us on the cover of The Courier for our wedding. 
+Last year you would have seen us on the cover of The Courier for our wedding.
 ![Jo and Roxy in their spitfire on there wedding day](/assets/courier.jpeg "Jo and Roxy in their spitfire on there wedding day")
 
 We have had a busy 2023 but are looking forward to continuing the mantle of the Isle of Wight Triumph Sport Six Club area.
