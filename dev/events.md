@@ -15,10 +15,9 @@ print_background: false
 
 ![menubar](/dev/menubar.md)
 
-## Drive your Triumph day
+## March Brunch Run
 
-Saturday 10^th^ of February 2024.
-We will be doing a run for drive your Triumph day leaving at 10am from [Brading Down](https://w3w.co/dimension.ghosts.project) and driving out to [Chessell Pottery](https://chessellpotterycafe.co.uk/).
+Information to be confirmed.
 
 ## Isle of Wight Triumph Weekend
 
