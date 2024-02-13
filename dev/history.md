@@ -32,4 +32,4 @@ They Ran it for ??years and started the traditional camping weekend which is sti
 
 ## Elaine and Tracy
 
-then ealine a tracy took it over and ran it for 10?? years 
+Then Elaine a Tracy took it over and ran it for 10?? years.
