@@ -19,10 +19,14 @@ Here is a brief history of the Isle of Wight Area.
 
 ## Started
 
-The Isle of Wight Area was started in 1988 by Jason Hawkins and Paul Fishbourne
+The Isle of Wight Area was started in 1988 by Jason Hawkins and Paul Fishburn
 They Ran it for ??years and started the traditional camping weekend which is still running
 
-## Garth
+## Garth Jupp
+
+## Stuart Fordham
+
+## Adrian Nigh
 
 ## Angela and Graham
 
